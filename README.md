@@ -1,4 +1,4 @@
 ---
-permalink: /index.html
+permalink: /letters.html
 ---
 # lettersproject
