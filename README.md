@@ -1,4 +1,3 @@
 ---
 permalink: /letters.html
----
-# lettersproject
+
